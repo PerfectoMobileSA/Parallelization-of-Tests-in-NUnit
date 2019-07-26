@@ -9,4 +9,5 @@ namespace PerfectoTest.PerfectoAPI
         public const string Email = "user@domain.com";
         //How to generate SecurityToken: https://developers.perfectomobile.com/display/PD/Security+Token
         public const string SecurityToken = "Enter-your-SecurityToken-here";
+    }
 }
